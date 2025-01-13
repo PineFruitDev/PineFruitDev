@@ -1,5 +1,3 @@
-- 👋 Hi, I’m @itzPine, also known as PineFruit
-- I am a Verse Developer on the Third Made UEFN Team
 - 📫 You can find me on Discord @pinefruit
 
 <!---
